@@ -1,0 +1,1 @@
+"""SMS Messenger application package."""
